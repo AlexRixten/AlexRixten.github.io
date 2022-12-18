@@ -1,0 +1,19 @@
+{
+  "name": "hiro",
+  "version": "1.0.0",
+  "description": "3d models in web",
+  "main": "index.js",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexRixten/HIRO.git"
+  },
+  "author": "Neo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexRixten/HIRO/issues"
+  },
+  "homepage": "https://github.com/AlexRixten/HIRO#readme"
+}
